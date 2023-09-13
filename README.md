@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me  
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/fsanchezbz/" target="blank"><img align="center" src="src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="img-linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/fsanchezbz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="img-linkedin" height="30" width="40" /></a>
 
   <a href="https://codesandbox.io/u/Pakuten" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="img-codesandbox" height="30" width="40" /></a>
   
