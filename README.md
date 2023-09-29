@@ -4,6 +4,19 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">I'm Francisco, I have started my development journey in February 2023 🐱‍🏍✨</h1>
+
+<div align="center">
+
+  <div style="display: inline-block">
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fsanchezbz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsanchezbz&layout=compact&langs_count=7&theme=dracula"/>
+
+ </div>
+
+</div>
+
 <h2 align="center">Webmaster Webadministrator 🔥🚀 specialist in dedicated and shared web hosting | I want to become Junior Full-stack Web Developer with MERN/PERN stack based in Berlin, Germany</h2>
 
 - 🔭 I’m currently working on **My Portfolio**
